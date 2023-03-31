@@ -1,4 +1,4 @@
-twillio
+twilio
 openai
 Flask
 gunicorn
